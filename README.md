@@ -13,10 +13,10 @@ Please do not hesitate to contact us at silvia.santini@usi.ch if you have any qu
 ## Instructions 
 
 The repository conntains the following items:
-- *EDArtifacts_Detection.ipynb*: is a jupyter notebook script that contains 
-- *SA_Detection.sav*: which contains the trained model for identifying shape artifacts in EDA. 
+- *EDArtifacts_Detection.ipynb*: is a jupyter notebook script that contains step by step instructions to run the artifacts detection pipeline. 
+- *SA_Detection.sav*: contains the trained model for identifying shape artifacts in EDA. 
 - *Data*: contains a sample EDA signal which is used to show how the script works.
-- *cvxEDA*: to decompos the EDA signal into the phasic and tonic component.
+- *cvxEDA*: is a python library used to decompose the EDA signal into the phasic and tonic components.
 
 ### To run artifacts detection please follow the steps in EDArtifacts_Detection.ipynb.
 
