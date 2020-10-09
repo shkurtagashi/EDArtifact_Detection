@@ -1,6 +1,6 @@
 # EDArtifacts_Detection
 
-EDArtifact_Detection is a reporitory that can be used for identifying artifacts in elecrodermal activity signals collected in the wild over long periods of time. 
+EDArtifact_Detection is a repository that can be used for identifying artifacts in elecrodermal activity (EDA) signals collected in the wild over long periods of time. 
 
 If you use the scripts in this repo please cite paper [1]:
 
